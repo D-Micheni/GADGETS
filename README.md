@@ -14,7 +14,7 @@ Open the Terminal command line: [CTRL+ALT+T]
 
 Clone the repository: [git clone https://github.com/D-Micheni/GADGETS.git]
 
-Change Directory: [cd Gadget-Centre]
+Change Directory: [cd GADGETS]
 
 Open index.html file on your browser
 
