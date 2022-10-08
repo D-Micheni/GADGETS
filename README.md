@@ -9,5 +9,7 @@ GADGETS is a web app that provides customers with a one-stop shop for all mobile
 * JavaScript
 * React Js
 * Json-Server
+## Setup Instructions
+
 
 
