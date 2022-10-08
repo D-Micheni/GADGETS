@@ -22,7 +22,11 @@ Open index.html file on your browser
 https://cheerful-jalebi-e90c45.netlify.app/
 
 ## Sample Screenshots
-![site screenshot](https://user-images.githubusercontent.com/108609340/194695622-694be34d-0c79-48be-b629-17adfc6e1235.jpeg)
+![Screenshot from 2022-10-08 11-25-50](https://user-images.githubusercontent.com/108609340/194698058-6cb77a23-7101-4dac-b1c1-307eceaf1f97.png)
+
+![Screenshot from 2022-10-08 11-25-22](https://user-images.githubusercontent.com/108609340/194698037-d53ea6f1-ff89-404c-ac0e-ca618c5c9402.png)
+
+
 
 Contact Information
 Incase of any enquiries or contributions, be sure to email me at["dennis.michemi@student.moringaschool.com"]
