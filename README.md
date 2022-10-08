@@ -21,6 +21,7 @@ Open index.html file on your browser
 ## Live Page
 https://cheerful-jalebi-e90c45.netlify.app/
 
-## 
+## Sample Screenshots
+
 
 
