@@ -22,6 +22,9 @@ Open index.html file on your browser
 https://cheerful-jalebi-e90c45.netlify.app/
 
 ## Sample Screenshots
+![site screenshot](https://user-images.githubusercontent.com/108609340/194695622-694be34d-0c79-48be-b629-17adfc6e1235.jpeg)
+
+
 
 
 
